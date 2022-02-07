@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my skills
+- 🔭 I’m currently working on my front-end skills
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on a project with developers
 - 🤔 I’m looking for help with learning advanced react
