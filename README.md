@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a project with developers
 - 🤔 I’m looking for help with learning advanced react
 - 💬 Ask me about web development and tech related stuffs
-- 📫 How to reach me: Twitter - @pranish194 
+- 📫 How to reach me: [Twitter - @pranish194] (https://twitter.com/Pranish194) 
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I love reading books and spirituality.
