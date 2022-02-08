@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I love reading books and spirituality.
 
-<div style={display : flex; flex-direction : row;}>
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pranish07" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src = "https://github-readme-stats.vercel.app/api?username=pranish07&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
-</div>
+
+
+<img align ="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pranish07" /> &nbsp;
+<img align ="center" src = "https://github-readme-stats.vercel.app/api?username=pranish07&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+ 
+<!-- ![](https://komarev.com/ghpvc/?username=pranish07) -->
