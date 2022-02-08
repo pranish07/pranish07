@@ -9,7 +9,7 @@
 <h3> 🤔 I’m looking for help with learning advanced react </h3>
 <h3> 💬 Ask me about web development and tech related stuffs </h3>
 <h3> 😄 Pronouns: he/his </h3>
-<h3> ⚡ Fun fact: I love reading books and spirituality. </h3>
+<h3> ⚡ Fun fact: I love reading books and practice spirituality. </h3>
 
 
 
