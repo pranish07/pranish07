@@ -1,18 +1,15 @@
-### Hi there 👋
+<h1 align ="center">Hi there 👋, I'm Pranish Shrestha </h1>
 
 
 <!-- **pranish07/pranish07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my front-end skills
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on a project with developers
-- 🤔 I’m looking for help with learning advanced react
-- 💬 Ask me about web development and tech related stuffs
-- 📫 How to reach me: [Twitter - @pranish194](https://twitter.com/Pranish194) 
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: I love reading books and spirituality.
+<h3>🔭 I’m currently working on my front-end skills </h3>
+<h3>🌱 I’m currently learning JavaScript </h3>
+<h3> 👯 I’m looking to collaborate with other developers </h3>
+<h3> 🤔 I’m looking for help with learning advanced react </h3>
+<h3> 💬 Ask me about web development and tech related stuffs </h3>
+<h3> 😄 Pronouns: he/his </h3>
+<h3> ⚡ Fun fact: I love reading books and spirituality. </h3>
 
 
 
