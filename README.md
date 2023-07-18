@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning React,typeScript and express,Nodejs
   
-- 👯 I’m looking to collaborate in javascript
+- 🫱🏻‍🫲🏼 I’m looking to collaborate in javascript
   
 - 👨‍💻 All my projects are in [https://pranish-portfolio.netlify.app/](https://pranish-portfolio.netlify.app/)
   
