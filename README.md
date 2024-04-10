@@ -9,7 +9,7 @@
   
 - 👨‍💻 All my projects are in [https://pranish-portfolio.netlify.app/](https://pranish-portfolio.netlify.app/)
   
-- 🤔 I ocassionally write articles [Dev.to](https://dev.to/pranish07) and [Hashnode](https://hashnode.com/@pranish07)
+- 🤔 I ocassionally write articles [Dev.to](https://dev.to/pranish07) and [Hashnode](https://hashnode.com/@askmeweb)
   
 - 💬 Ask me about React,HTML,CSS and web development 
 
