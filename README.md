@@ -1,28 +1,47 @@
-<h1 align ="center">Hi 👋, I'm Pranish Shrestha </h1>
-<h2>I am a Frontend developer aspiring to be full stack developer</h2>
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranish07&label=Profile%20views&color=0e75b6&style=flat" alt="pranish07" /> </p> -->
 
-- 🔭 I’m currently learning React,typeScript and express,Nodejs
-  
-- 🫱🏻‍🫲🏼 I’m looking to collaborate in javascript
-  
-- 👨‍💻 All my projects are in [https://pranish-portfolio.netlify.app/](https://pranish-portfolio.netlify.app/)
-  
-- 🤔 I ocassionally write articles [Dev.to](https://dev.to/pranish07) and [Hashnode](https://hashnode.com/@askmeweb)
-  
-- 💬 Ask me about React,HTML,CSS and web development 
+# Hi 👋, I'm Pranish Shrestha  
+## Frontend Engineer | Aspiring Full-Stack Developer  
 
-- 📫 How to reach me **pranishshrestha181@gmail.com** 
+🚀 **About Me:**  
+I am a passionate **Frontend Engineer** with expertise in **React, TypeScript, and modern web technologies**.  
+I enjoy building scalable and user-friendly applications, continuously learning, and expanding my skills toward full-stack development.  
 
-- ⚡ Fun fact: I love reading books and playing chess. 
+### 💡 What I'm Working On:  
+- Enhancing my skills in **React, TypeScript, Node.js, and Express**  
+- Exploring **full-stack development** with backend technologies  
+- Writing technical blogs and sharing insights on web development  
 
+### 👨‍💻 My Work & Portfolio:  
+Check out my projects: [pranish-portfolio.netlify.app](https://pranish-portfolio.netlify.app/)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranish07&show_icons=true&locale=en&layout=compact" alt="pranish07" /></p>
+### 📝 Technical Blogs:  
+I occasionally write about web development on **[Hashnode](https://hashnode.com/@askmeweb)**  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranish07&show_icons=true&locale=en" alt="pranish07" /></p>
+### 💬 Ask Me About:  
+- Frontend development (**React, TypeScript, JavaScript, HTML, CSS**)  
+- UI/UX best practices  
+- Web performance optimization  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranish07&" alt="pranish07" /></p>
+### 📫 Let's Connect:  
+- **Email:** pranishshrestha181@gmail.com  
+- **LinkedIn:** [linkedin.com/in/i-am-pranish/](https://www.linkedin.com/in/i-am-pranish/)
+- **GitHub:** [github.com/pranish07](https://github.com/pranish07)  
+
+### ⚡ Fun Fact:  
+I love reading books and playing chess.  
+
+---
+
+## 📊 GitHub Stats:  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranish07&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranish07&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranish07&layout=compact&theme=radical" alt="Top Languages" />
+</p>  
+
 
 
 <!-- ![](https://komarev.com/ghpvc/?username=pranish07) -->
