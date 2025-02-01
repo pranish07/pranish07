@@ -29,7 +29,7 @@ I occasionally write about web development on **[Hashnode](https://hashnode.com/
 - **GitHub:** [github.com/pranish07](https://github.com/pranish07)  
 
 ### ⚡ Fun Fact:  
-I love reading books and playing chess.  
+I love reading books and playing chess. Feel free to view my chess profile on **[Chess.com](https://www.chess.com/member/pranishshrestha7)**. 
 
 ---
 
