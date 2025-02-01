@@ -36,10 +36,10 @@ I love reading books and playing chess. Feel free to view my chess profile on **
 ## 📊 GitHub Stats:  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pranish07&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
+<!--   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranish07&theme=radical" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranish07&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranish07&layout=compact&theme=radical" alt="Top Languages" /> -->
 </p>  
 
 
